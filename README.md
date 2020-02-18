@@ -6,6 +6,7 @@
 - git add <File>: Adds file to repository (use . for all files in directory)
 - git commit -m '': Confirms file as the latest update to the repository with an explanatory comment
 - git remote --v: lists current connected remote repositories (e.g. are you connected to github)
+- git log: shows log of all commits in current repository
 
 ### SSH
 - Used to allow seamless pushes to remote repository
